@@ -1,0 +1,18 @@
+{
+  "elevationGain": 2312,
+  "bounds": [
+    [
+      35.737272,
+      -105.89582
+    ],
+    [
+      35.64063,
+      -105.986556
+    ]
+  ],
+  "tripLength": 27.52,
+  "rideTimeHours": {
+    "lowerBound": 2,
+    "upperBound": 3
+  }
+}

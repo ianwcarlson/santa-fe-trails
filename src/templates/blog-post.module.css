@@ -1,0 +1,31 @@
+.leafletTopContainer {
+  height: 600px;
+  width: 100%;
+}
+
+.mapContainer {
+  height: 600px;
+  width: 100%;
+  position: relative;
+}
+
+.resetMapButton {
+  z-index: 10000;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+
+.zoomIn {
+  z-index: 10000;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+
+.zoomOut {
+  z-index: 10000;
+  position: absolute;
+  top: 72px;
+  left: 8px;
+}

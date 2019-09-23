@@ -62,19 +62,6 @@ const Theme = ({ children, themeType, themeSwitch }) => (
                 <Box basis="large" flex="grow" direction="row-responsive">
                   {children}
                 </Box>
-                <Box basis="medium">
-                  <Sticky>
-                    {({ style }) => (
-                      <aside style={style}>
-                        <Sidebar
-                          siteConfig={siteConfig}
-                          themeSwitch={themeSwitch}
-                          themeType={themeType}
-                        />
-                      </aside>
-                    )}
-                  </Sticky>
-                </Box>
               </Box>
             </StickyContainer>
           </main>

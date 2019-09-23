@@ -3,8 +3,8 @@ module.exports = {
   // Change information to your own:
   //
   // Site Info:
-  title: 'Gatsby Starter Blog Grommet v2',
-  description: 'This is a DEMO site! SSG - Gatsby JS, UI - Grommet v2',
+  title: 'Santa Fe Trails',
+  description: 'Hike/Bike Roads, Gravel, Single-track in the Fe',
   siteUrl: 'https://ganevru.github.io/gatsby-starter-blog-grommet/',
   footerText:
     '**2018**<br><br>Go here: site-config.js, and replace this text with your own', // You can use Markdown markup here
